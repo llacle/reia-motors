@@ -1591,6 +1591,52 @@
       ],
       "id": "0002",
       "year": 2026
+    },
+    {
+      "km": 100000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 35000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "BMW X6",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-11-at-14.18.38-7-.jpeg",
+        "/uploads/whatsapp-image-2026-07-11-at-14.18.38-8-.jpeg",
+        "/uploads/whatsapp-image-2026-07-11-at-14.18.38-5-.jpeg",
+        "/uploads/whatsapp-image-2026-07-11-at-14.18.38.jpeg",
+        "/uploads/whatsapp-image-2026-07-11-at-14.18.38-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-11-at-14.18.38-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-11-at-14.18.38-6-.jpeg",
+        "/uploads/whatsapp-image-2026-07-11-at-14.18.38-4-.jpeg"
+      ],
+      "id": "7204",
+      "year": 2015
+    },
+    {
+      "km": 25000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 50000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Kia Forte GT Turbo",
+      "images": [
+        "/uploads/whatsapp-image-2026-09-08-at-22.42.52-3-.jpeg",
+        "/uploads/whatsapp-image-2026-09-08-at-22.42.53-4-.jpeg",
+        "/uploads/whatsapp-image-2026-09-08-at-22.42.52-1-.jpeg",
+        "/uploads/whatsapp-image-2026-09-08-at-22.42.53-2-.jpeg",
+        "/uploads/whatsapp-image-2026-09-08-at-22.42.53-3-.jpeg",
+        "/uploads/whatsapp-image-2026-09-08-at-22.42.52-2-.jpeg",
+        "/uploads/whatsapp-image-2026-09-08-at-22.42.53-5-.jpeg",
+        "/uploads/whatsapp-image-2026-09-08-at-22.42.53-1-.jpeg"
+      ],
+      "id": "G3",
+      "year": 2024
     }
   ]
 }
