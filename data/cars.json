@@ -349,7 +349,7 @@
       "price": 40000,
       "featured": false,
       "currency": "AWG",
-      "sold": false,
+      "sold": true,
       "fuel": "Gasoline",
       "title": "Ford Explorer",
       "images": [
@@ -387,28 +387,6 @@
       ],
       "id": "6949",
       "year": 2015
-    },
-    {
-      "km": 88110,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 25000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "HONDA CRV",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.20-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.19-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.20-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.19.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.21.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.20-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.20.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.20-3-.jpeg"
-      ],
-      "id": "1760",
-      "year": 2012
     },
     {
       "km": 129400,
@@ -641,7 +619,7 @@
       "km": 170000,
       "body": "SUV",
       "trans": "Automatic",
-      "price": 9000,
+      "price": 11500,
       "featured": false,
       "currency": "AWG",
       "sold": false,
@@ -1076,7 +1054,7 @@
       "km": 43000,
       "body": "Hatchback",
       "trans": "Automatic",
-      "price": 35000,
+      "price": 32500,
       "featured": false,
       "currency": "AWG",
       "sold": false,
@@ -1122,7 +1100,7 @@
       "km": 74910,
       "body": "Hatchback",
       "trans": "Automatic",
-      "price": 16500,
+      "price": 16000,
       "featured": false,
       "currency": "AWG",
       "sold": false,
@@ -1145,7 +1123,7 @@
       "km": 44000,
       "body": "Hatchback",
       "trans": "Automatic",
-      "price": 15000,
+      "price": 14500,
       "featured": false,
       "currency": "AWG",
       "sold": false,
@@ -1257,29 +1235,6 @@
       "year": 2011
     },
     {
-      "km": 200000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 11500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Nissan Note",
-      "images": [
-        "/uploads/whatsapp-image-2026-09-05-at-20.05.10-5-.jpeg",
-        "/uploads/whatsapp-image-2026-09-05-at-20.05.09.jpeg",
-        "/uploads/whatsapp-image-2026-09-05-at-20.05.10-1-.jpeg",
-        "/uploads/whatsapp-image-2026-09-05-at-20.05.11.jpeg",
-        "/uploads/whatsapp-image-2026-09-05-at-20.05.11-1-.jpeg",
-        "/uploads/whatsapp-image-2026-09-05-at-20.05.10-2-.jpeg",
-        "/uploads/whatsapp-image-2026-09-05-at-20.05.11-2-.jpeg",
-        "/uploads/whatsapp-image-2026-09-05-at-20.05.10.jpeg"
-      ],
-      "id": "N5",
-      "year": 2013
-    },
-    {
       "km": 75000,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -1302,24 +1257,27 @@
       "year": 2014
     },
     {
-      "km": 170000,
+      "km": 200000,
       "body": "Hatchback",
       "trans": "Automatic",
-      "price": 11000,
+      "price": 10500,
       "featured": false,
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
-      "title": "toyota iq",
+      "title": "Nissan Note",
       "images": [
-        "/uploads/whatsapp-image-2026-04-28-at-17.07.48-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.07.47.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.07.48-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.07.48-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.07.48-3-.jpeg"
+        "/uploads/whatsapp-image-2026-09-05-at-20.05.10-5-.jpeg",
+        "/uploads/whatsapp-image-2026-09-05-at-20.05.09.jpeg",
+        "/uploads/whatsapp-image-2026-09-05-at-20.05.10-1-.jpeg",
+        "/uploads/whatsapp-image-2026-09-05-at-20.05.11.jpeg",
+        "/uploads/whatsapp-image-2026-09-05-at-20.05.11-1-.jpeg",
+        "/uploads/whatsapp-image-2026-09-05-at-20.05.10-2-.jpeg",
+        "/uploads/whatsapp-image-2026-09-05-at-20.05.11-2-.jpeg",
+        "/uploads/whatsapp-image-2026-09-05-at-20.05.10.jpeg"
       ],
-      "id": "ben1",
-      "year": 2009
+      "id": "N5",
+      "year": 2013
     },
     {
       "km": 146000,
@@ -1385,74 +1343,6 @@
       ],
       "id": "IOASA",
       "year": 2024
-    },
-    {
-      "km": 114000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 18500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Jeep Compass 4x4",
-      "images": [
-        "/uploads/whatsapp-image-2026-06-22-at-20.19.09-4-.jpeg",
-        "/uploads/whatsapp-image-2026-06-22-at-20.19.09-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-22-at-20.19.08.jpeg",
-        "/uploads/whatsapp-image-2026-06-22-at-20.19.09-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-22-at-20.19.08-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-22-at-20.19.10.jpeg",
-        "/uploads/whatsapp-image-2026-06-22-at-20.19.10-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-22-at-20.19.09-3-.jpeg"
-      ],
-      "id": "STDTCH",
-      "year": 2012
-    },
-    {
-      "km": 110000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 19000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Jeep Grand Cherokee",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-02-at-16.41.38-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-02-at-16.41.38-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-02-at-16.41.38.jpeg",
-        "/uploads/whatsapp-image-2026-05-02-at-16.41.39.jpeg",
-        "/uploads/whatsapp-image-2026-05-03-at-18.47.22.jpeg",
-        "/uploads/whatsapp-image-2026-05-02-at-16.41.40.jpeg",
-        "/uploads/whatsapp-image-2026-05-02-at-16.41.40-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-02-at-16.41.38-3-.jpeg"
-      ],
-      "id": "carlos1",
-      "year": 2012
-    },
-    {
-      "km": 143492,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 19000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "JEEP LIBERTY",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.44-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.45.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.45-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.44-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.43.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.45-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.45-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.44-2-.jpeg"
-      ],
-      "id": "8763",
-      "year": 2009
     },
     {
       "km": 2109,
