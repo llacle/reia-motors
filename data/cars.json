@@ -343,29 +343,6 @@
       "year": 2019
     },
     {
-      "km": 52766,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 40000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "Ford Explorer",
-      "images": [
-        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-9-.jpeg",
-        "/uploads/whatsapp-image-2026-08-07-at-00.30.19.jpeg",
-        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-2-.jpeg",
-        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-7-.jpeg",
-        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-3-.jpeg",
-        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-1-.jpeg",
-        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-5-.jpeg",
-        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-6-.jpeg"
-      ],
-      "id": "5785",
-      "year": 2018
-    },
-    {
       "km": 30000,
       "body": "SUV",
       "trans": "Automatic",
@@ -1820,6 +1797,29 @@
       ],
       "id": "G2",
       "year": 2025
+    },
+    {
+      "km": 52766,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 40000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "Ford Explorer",
+      "images": [
+        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-9-.jpeg",
+        "/uploads/whatsapp-image-2026-08-07-at-00.30.19.jpeg",
+        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-7-.jpeg",
+        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-3-.jpeg",
+        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-1-.jpeg",
+        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-5-.jpeg",
+        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-6-.jpeg"
+      ],
+      "id": "5785",
+      "year": 2018
     },
     {
       "km": 80000,
