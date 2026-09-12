@@ -1036,29 +1036,6 @@
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
-      "title": "Kia Optima",
-      "images": [
-        "/uploads/whatsapp-image-2026-08-26-at-15.34.04-2-.jpeg",
-        "/uploads/whatsapp-image-2026-08-26-at-15.34.03-1-.jpeg",
-        "/uploads/whatsapp-image-2026-08-26-at-15.34.03-2-.jpeg",
-        "/uploads/whatsapp-image-2026-08-26-at-15.34.04.jpeg",
-        "/uploads/whatsapp-image-2026-08-26-at-15.34.03.jpeg",
-        "/uploads/whatsapp-image-2026-08-26-at-15.34.04-3-.jpeg",
-        "/uploads/whatsapp-image-2026-08-26-at-15.34.04-5-.jpeg",
-        "/uploads/whatsapp-image-2026-08-26-at-15.34.04-4-.jpeg"
-      ],
-      "id": "K2",
-      "year": 2012
-    },
-    {
-      "km": 155000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 14000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
       "title": "KIA Rio",
       "images": [
         "/uploads/whatsapp-image-2026-08-05-at-19.14.47.jpeg",
