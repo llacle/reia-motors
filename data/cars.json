@@ -616,29 +616,6 @@
       "year": 2023
     },
     {
-      "km": 110000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 55000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "dodge challenger sxt",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.53-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.53.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.52.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.53-6-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.53-5-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.53-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.54.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.54-1-.jpeg"
-      ],
-      "id": "wen2",
-      "year": 2020
-    },
-    {
       "km": 25000,
       "body": "Sedan",
       "trans": "Automatic",
