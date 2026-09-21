@@ -822,29 +822,6 @@
       "year": 2012
     },
     {
-      "km": 101000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 22500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Kia Rio sedan",
-      "images": [
-        "/uploads/whatsapp-image-2026-09-09-at-20.33.20-1-.jpeg",
-        "/uploads/whatsapp-image-2026-09-09-at-20.33.20-5-.jpeg",
-        "/uploads/whatsapp-image-2026-09-09-at-20.33.20-4-.jpeg",
-        "/uploads/whatsapp-image-2026-09-09-at-20.33.20-2-.jpeg",
-        "/uploads/whatsapp-image-2026-09-09-at-20.33.20-8-.jpeg",
-        "/uploads/whatsapp-image-2026-09-09-at-20.33.20.jpeg",
-        "/uploads/whatsapp-image-2026-09-09-at-20.33.20-7-.jpeg",
-        "/uploads/whatsapp-image-2026-09-09-at-20.33.20-3-.jpeg"
-      ],
-      "id": "5563",
-      "year": 2020
-    },
-    {
       "km": 68000,
       "body": "Sedan",
       "trans": "Automatic",
