@@ -1637,6 +1637,52 @@
       ],
       "id": "8219",
       "year": 2017
+    },
+    {
+      "km": 127000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 22500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Kia Soluto",
+      "images": [
+        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-5-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-7-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.25.34.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-2-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-1-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-6-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-8-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-4-.jpeg"
+      ],
+      "id": "4304",
+      "year": 2020
+    },
+    {
+      "km": 260000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 7500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Mitsubishi Outlander ASX",
+      "images": [
+        "/uploads/whatsapp-image-2026-09-22-at-22.26.02-2-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.26.02-1-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.26.02-5-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.26.02-6-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.26.02-7-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.26.02-3-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.26.02-4-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.26.02-8-.jpeg"
+      ],
+      "id": "1929",
+      "year": 2011
     }
   ]
 }
