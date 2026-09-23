@@ -1614,6 +1614,29 @@
       ],
       "id": "0002",
       "year": 2026
+    },
+    {
+      "km": 150000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 32500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Ford Xplorer",
+      "images": [
+        "/uploads/whatsapp-image-2026-09-20-at-22.08.07-2-copy.jpeg",
+        "/uploads/whatsapp-image-2026-09-20-at-22.08.07-1-.jpeg",
+        "/uploads/whatsapp-image-2026-09-20-at-22.08.07-7-.jpeg",
+        "/uploads/whatsapp-image-2026-09-20-at-22.08.07-8-.jpeg",
+        "/uploads/whatsapp-image-2026-09-20-at-22.08.07-3-.jpeg",
+        "/uploads/whatsapp-image-2026-09-20-at-22.08.07-5-.jpeg",
+        "/uploads/whatsapp-image-2026-09-20-at-22.08.07-6-.jpeg",
+        "/uploads/whatsapp-image-2026-09-20-at-22.08.07.jpeg"
+      ],
+      "id": "8219",
+      "year": 2017
     }
   ]
 }
