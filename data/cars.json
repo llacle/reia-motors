@@ -320,6 +320,29 @@
       "year": 2015
     },
     {
+      "km": 150000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 32500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Ford  Explorer",
+      "images": [
+        "/uploads/whatsapp-image-2026-09-20-at-22.08.07-2-copy.jpeg",
+        "/uploads/whatsapp-image-2026-09-20-at-22.08.07-1-.jpeg",
+        "/uploads/whatsapp-image-2026-09-20-at-22.08.07-7-.jpeg",
+        "/uploads/whatsapp-image-2026-09-20-at-22.08.07-8-.jpeg",
+        "/uploads/whatsapp-image-2026-09-20-at-22.08.07-3-.jpeg",
+        "/uploads/whatsapp-image-2026-09-20-at-22.08.07-5-.jpeg",
+        "/uploads/whatsapp-image-2026-09-20-at-22.08.07-6-.jpeg",
+        "/uploads/whatsapp-image-2026-09-20-at-22.08.07.jpeg"
+      ],
+      "id": "8219",
+      "year": 2017
+    },
+    {
       "km": 130000,
       "body": "SUV",
       "trans": "Automatic",
@@ -570,6 +593,29 @@
       "year": 2004
     },
     {
+      "km": 260000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 7500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Mitsubishi Outlander ASX",
+      "images": [
+        "/uploads/whatsapp-image-2026-09-22-at-22.26.02-2-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.26.02-1-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.26.02-5-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.26.02-6-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.26.02-7-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.26.02-3-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.26.02-4-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.26.02-8-.jpeg"
+      ],
+      "id": "1929",
+      "year": 2011
+    },
+    {
       "km": 40700,
       "body": "Sedan",
       "trans": "Automatic",
@@ -636,6 +682,29 @@
       ],
       "id": "2624",
       "year": 2009
+    },
+    {
+      "km": 0,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 30000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Cadillac Deville",
+      "images": [
+        "/uploads/whatsapp-image-2026-09-23-at-22.04.49-4-.jpeg",
+        "/uploads/whatsapp-image-2026-09-23-at-22.04.49-6-.jpeg",
+        "/uploads/whatsapp-image-2026-09-23-at-22.04.49-1-.jpeg",
+        "/uploads/whatsapp-image-2026-09-23-at-22.04.49-5-.jpeg",
+        "/uploads/whatsapp-image-2026-09-23-at-22.04.49.jpeg",
+        "/uploads/whatsapp-image-2026-09-23-at-22.04.50.jpeg",
+        "/uploads/whatsapp-image-2026-09-23-at-22.04.49-3-.jpeg",
+        "/uploads/whatsapp-image-2026-09-23-at-22.04.49-2-.jpeg"
+      ],
+      "id": "C2",
+      "year": 1964
     },
     {
       "km": 87000,
@@ -753,6 +822,29 @@
       "year": 2018
     },
     {
+      "km": 79500,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 25000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Hyundai Elantra",
+      "images": [
+        "/uploads/whatsapp-image-2026-09-23-at-21.59.04-3-.jpeg",
+        "/uploads/whatsapp-image-2026-09-23-at-21.59.04-6-.jpeg",
+        "/uploads/whatsapp-image-2026-09-23-at-21.59.04.jpeg",
+        "/uploads/whatsapp-image-2026-09-23-at-21.59.04-8-.jpeg",
+        "/uploads/whatsapp-image-2026-09-23-at-21.59.04-1-.jpeg",
+        "/uploads/whatsapp-image-2026-09-23-at-21.59.04-5-.jpeg",
+        "/uploads/whatsapp-image-2026-09-23-at-21.59.04-7-.jpeg",
+        "/uploads/whatsapp-image-2026-09-23-at-21.59.04-2-.jpeg"
+      ],
+      "id": "8666",
+      "year": 2018
+    },
+    {
       "km": 199000,
       "body": "Sedan",
       "trans": "Manual",
@@ -797,6 +889,29 @@
       ],
       "id": "0396",
       "year": 2012
+    },
+    {
+      "km": 127000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 22500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Kia Soluto",
+      "images": [
+        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-5-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-7-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.25.34.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-2-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-1-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-6-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-8-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-4-.jpeg"
+      ],
+      "id": "4304",
+      "year": 2020
     },
     {
       "km": 68000,
@@ -1476,6 +1591,25 @@
       "year": 2000
     },
     {
+      "km": 150000,
+      "body": "Truck",
+      "trans": "Automatic",
+      "price": 32500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Ford F250 King Ranch",
+      "images": [
+        "/uploads/whatsapp-image-2026-09-23-at-23.00.29-1-.jpeg",
+        "/uploads/whatsapp-image-2026-09-23-at-23.00.29.jpeg",
+        "/uploads/whatsapp-image-2026-09-23-at-23.00.29-2-.jpeg",
+        "/uploads/whatsapp-image-2026-09-23-at-23.00.30.jpeg"
+      ],
+      "id": "R1",
+      "year": 2000
+    },
+    {
       "km": 0,
       "body": "Motorcycle",
       "trans": "Automatic",
@@ -1614,140 +1748,6 @@
       ],
       "id": "0002",
       "year": 2026
-    },
-    {
-      "km": 150000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 32500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Ford Xplorer",
-      "images": [
-        "/uploads/whatsapp-image-2026-09-20-at-22.08.07-2-copy.jpeg",
-        "/uploads/whatsapp-image-2026-09-20-at-22.08.07-1-.jpeg",
-        "/uploads/whatsapp-image-2026-09-20-at-22.08.07-7-.jpeg",
-        "/uploads/whatsapp-image-2026-09-20-at-22.08.07-8-.jpeg",
-        "/uploads/whatsapp-image-2026-09-20-at-22.08.07-3-.jpeg",
-        "/uploads/whatsapp-image-2026-09-20-at-22.08.07-5-.jpeg",
-        "/uploads/whatsapp-image-2026-09-20-at-22.08.07-6-.jpeg",
-        "/uploads/whatsapp-image-2026-09-20-at-22.08.07.jpeg"
-      ],
-      "id": "8219",
-      "year": 2017
-    },
-    {
-      "km": 127000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 22500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Kia Soluto",
-      "images": [
-        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-5-.jpeg",
-        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-7-.jpeg",
-        "/uploads/whatsapp-image-2026-09-22-at-22.25.34.jpeg",
-        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-2-.jpeg",
-        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-1-.jpeg",
-        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-6-.jpeg",
-        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-8-.jpeg",
-        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-4-.jpeg"
-      ],
-      "id": "4304",
-      "year": 2020
-    },
-    {
-      "km": 260000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 7500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Mitsubishi Outlander ASX",
-      "images": [
-        "/uploads/whatsapp-image-2026-09-22-at-22.26.02-2-.jpeg",
-        "/uploads/whatsapp-image-2026-09-22-at-22.26.02-1-.jpeg",
-        "/uploads/whatsapp-image-2026-09-22-at-22.26.02-5-.jpeg",
-        "/uploads/whatsapp-image-2026-09-22-at-22.26.02-6-.jpeg",
-        "/uploads/whatsapp-image-2026-09-22-at-22.26.02-7-.jpeg",
-        "/uploads/whatsapp-image-2026-09-22-at-22.26.02-3-.jpeg",
-        "/uploads/whatsapp-image-2026-09-22-at-22.26.02-4-.jpeg",
-        "/uploads/whatsapp-image-2026-09-22-at-22.26.02-8-.jpeg"
-      ],
-      "id": "1929",
-      "year": 2011
-    },
-    {
-      "km": 79500,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 25000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Hyundai Elantra",
-      "images": [
-        "/uploads/whatsapp-image-2026-09-23-at-21.59.04-3-.jpeg",
-        "/uploads/whatsapp-image-2026-09-23-at-21.59.04-6-.jpeg",
-        "/uploads/whatsapp-image-2026-09-23-at-21.59.04.jpeg",
-        "/uploads/whatsapp-image-2026-09-23-at-21.59.04-8-.jpeg",
-        "/uploads/whatsapp-image-2026-09-23-at-21.59.04-1-.jpeg",
-        "/uploads/whatsapp-image-2026-09-23-at-21.59.04-5-.jpeg",
-        "/uploads/whatsapp-image-2026-09-23-at-21.59.04-7-.jpeg",
-        "/uploads/whatsapp-image-2026-09-23-at-21.59.04-2-.jpeg"
-      ],
-      "id": "8666",
-      "year": 2018
-    },
-    {
-      "km": 0,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 30000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Cadillac Deville",
-      "images": [
-        "/uploads/whatsapp-image-2026-09-23-at-22.04.49-4-.jpeg",
-        "/uploads/whatsapp-image-2026-09-23-at-22.04.49-6-.jpeg",
-        "/uploads/whatsapp-image-2026-09-23-at-22.04.49-1-.jpeg",
-        "/uploads/whatsapp-image-2026-09-23-at-22.04.49-5-.jpeg",
-        "/uploads/whatsapp-image-2026-09-23-at-22.04.49.jpeg",
-        "/uploads/whatsapp-image-2026-09-23-at-22.04.50.jpeg",
-        "/uploads/whatsapp-image-2026-09-23-at-22.04.49-3-.jpeg",
-        "/uploads/whatsapp-image-2026-09-23-at-22.04.49-2-.jpeg"
-      ],
-      "id": "C2",
-      "year": 1964
-    },
-    {
-      "km": 150000,
-      "body": "Truck",
-      "trans": "Automatic",
-      "price": 32500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Ford F250 King Ranch",
-      "images": [
-        "/uploads/whatsapp-image-2026-09-23-at-23.00.29-1-.jpeg",
-        "/uploads/whatsapp-image-2026-09-23-at-23.00.29.jpeg",
-        "/uploads/whatsapp-image-2026-09-23-at-23.00.29-2-.jpeg",
-        "/uploads/whatsapp-image-2026-09-23-at-23.00.30.jpeg"
-      ],
-      "id": "R1",
-      "year": 2000
     }
   ]
 }
