@@ -1679,6 +1679,52 @@
       ],
       "id": "0002",
       "year": 2026
+    },
+    {
+      "km": 115000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 14500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Lexus IS 250",
+      "images": [
+        "/uploads/whatsapp-image-2026-09-28-at-23.10.31.jpeg",
+        "/uploads/whatsapp-image-2026-09-28-at-23.10.31-6-.jpeg",
+        "/uploads/whatsapp-image-2026-09-28-at-23.10.31-4-.jpeg",
+        "/uploads/whatsapp-image-2026-09-28-at-23.10.31-3-.jpeg",
+        "/uploads/whatsapp-image-2026-09-28-at-23.10.31-1-.jpeg",
+        "/uploads/whatsapp-image-2026-09-28-at-23.10.31-7-.jpeg",
+        "/uploads/whatsapp-image-2026-09-28-at-23.10.31-5-.jpeg",
+        "/uploads/whatsapp-image-2026-09-28-at-23.10.31-2-.jpeg"
+      ],
+      "id": "9163",
+      "year": 2009
+    },
+    {
+      "km": 93732,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 20000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Hyundai Accent",
+      "images": [
+        "/uploads/whatsapp-image-2026-09-28-at-23.21.43-2-.jpeg",
+        "/uploads/whatsapp-image-2026-09-28-at-23.21.43-3-.jpeg",
+        "/uploads/whatsapp-image-2026-09-28-at-23.21.43-5-.jpeg",
+        "/uploads/whatsapp-image-2026-09-28-at-23.21.43.jpeg",
+        "/uploads/whatsapp-image-2026-09-28-at-23.21.43-7-.jpeg",
+        "/uploads/whatsapp-image-2026-09-28-at-23.21.43-6-.jpeg",
+        "/uploads/whatsapp-image-2026-09-28-at-23.21.43-1-.jpeg",
+        "/uploads/whatsapp-image-2026-09-28-at-23.21.43-8-.jpeg"
+      ],
+      "id": "G20",
+      "year": 2020
     }
   ]
 }
