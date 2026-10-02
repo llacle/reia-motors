@@ -914,29 +914,6 @@
       "year": 2012
     },
     {
-      "km": 95000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 22500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Jeep Cherokee",
-      "images": [
-        "/uploads/whatsapp-image-2026-10-02-at-02.08.51-3-.jpeg",
-        "/uploads/whatsapp-image-2026-10-02-at-02.08.51-6-.jpeg",
-        "/uploads/whatsapp-image-2026-10-02-at-02.08.51-2-.jpeg",
-        "/uploads/whatsapp-image-2026-10-02-at-02.08.51-7-.jpeg",
-        "/uploads/whatsapp-image-2026-10-02-at-02.08.51-4-.jpeg",
-        "/uploads/whatsapp-image-2026-10-02-at-02.08.51.jpeg",
-        "/uploads/whatsapp-image-2026-10-02-at-02.08.51-8-.jpeg",
-        "/uploads/whatsapp-image-2026-10-02-at-02.08.51-5-.jpeg"
-      ],
-      "id": "2485",
-      "year": 2017
-    },
-    {
       "km": 127000,
       "body": "Sedan",
       "trans": "Automatic",
@@ -1527,6 +1504,29 @@
       ],
       "id": "HEM1",
       "year": 2008
+    },
+    {
+      "km": 95000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 22500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Jeep Cherokee",
+      "images": [
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.51-3-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.51-6-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.51-2-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.51-7-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.51-4-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.51.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.51-8-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.51-5-.jpeg"
+      ],
+      "id": "2485",
+      "year": 2017
     },
     {
       "km": 4000,
