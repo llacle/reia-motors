@@ -1725,6 +1725,121 @@
       ],
       "id": "G20",
       "year": 2020
+    },
+    {
+      "km": 50000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 35000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Suzuki Swift",
+      "images": [
+        "/uploads/whatsapp-image-2026-10-02-at-02.07.59-4-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.07.59.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.07.59-2-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.07.59-7-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.07.59-8-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.07.59-6-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.07.59-5-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.07.59-1-.jpeg"
+      ],
+      "id": "9418",
+      "year": 2024
+    },
+    {
+      "km": 50000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 30000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Nissan Infinity Q50",
+      "images": [
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.15-2-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.15-4-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.15-5-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.15-7-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.15-6-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.15-3-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.15-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.15-8-.jpeg"
+      ],
+      "id": "0451",
+      "year": 2015
+    },
+    {
+      "km": 78000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 25000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Hyundai Elantra",
+      "images": [
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.37-5-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.37-2-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.37-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.37-8-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.37.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.37-4-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.37-6-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.37-7-.jpeg"
+      ],
+      "id": "5023",
+      "year": 2018
+    },
+    {
+      "km": 95000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 22500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Jeep Cherokee",
+      "images": [
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.51-3-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.51-6-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.51-2-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.51-7-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.51-4-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.51.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.51-8-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.08.51-5-.jpeg"
+      ],
+      "id": "2485",
+      "year": 2017
+    },
+    {
+      "km": 90000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 20000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Nissan Versa",
+      "images": [
+        "/uploads/whatsapp-image-2026-10-02-at-02.35.54.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.35.53-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.35.56.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.35.55-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.35.55.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.35.59.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.35.59-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-02-at-02.35.54-1-.jpeg"
+      ],
+      "id": "N3",
+      "year": 2020
     }
   ]
 }
