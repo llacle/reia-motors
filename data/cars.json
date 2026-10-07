@@ -1373,51 +1373,6 @@
       "year": 2011
     },
     {
-      "km": 75000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 11000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Nissan March",
-      "images": [
-        "/uploads/whatsapp-image-2026-06-18-at-20.43.22.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-20.43.25-copy.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-20.43.22-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-20.43.24-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-20.43.23.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-20.43.24.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-20.43.23-1-.jpeg"
-      ],
-      "id": "2435",
-      "year": 2014
-    },
-    {
-      "km": 200000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 10500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Nissan Note",
-      "images": [
-        "/uploads/whatsapp-image-2026-09-05-at-20.05.10-5-.jpeg",
-        "/uploads/whatsapp-image-2026-09-05-at-20.05.09.jpeg",
-        "/uploads/whatsapp-image-2026-09-05-at-20.05.10-1-.jpeg",
-        "/uploads/whatsapp-image-2026-09-05-at-20.05.11.jpeg",
-        "/uploads/whatsapp-image-2026-09-05-at-20.05.11-1-.jpeg",
-        "/uploads/whatsapp-image-2026-09-05-at-20.05.10-2-.jpeg",
-        "/uploads/whatsapp-image-2026-09-05-at-20.05.11-2-.jpeg",
-        "/uploads/whatsapp-image-2026-09-05-at-20.05.10.jpeg"
-      ],
-      "id": "N5",
-      "year": 2013
-    },
-    {
       "km": 146000,
       "body": "SUV",
       "trans": "Automatic",
