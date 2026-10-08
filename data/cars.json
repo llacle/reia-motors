@@ -807,7 +807,7 @@
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
-      "title": "Mustang",
+      "title": "Ford mustang",
       "images": [
         "/uploads/whatsapp-image-2026-08-25-at-21.40.34-9-.jpeg",
         "/uploads/whatsapp-image-2026-08-25-at-21.40.34-5-.jpeg",
@@ -1483,26 +1483,6 @@
       "year": 2018
     },
     {
-      "km": 96000,
-      "body": "Truck",
-      "trans": "Automatic",
-      "price": 58000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "chevrolet colorado",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-21-at-00.37.51-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-00.37.51-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-00.37.51-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-00.37.52.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-00.37.51-2-.jpeg"
-      ],
-      "id": "2655",
-      "year": 2022
-    },
-    {
       "km": 200000,
       "body": "Truck",
       "trans": "Automatic",
@@ -1663,25 +1643,6 @@
       ],
       "id": "3077",
       "year": 2020
-    },
-    {
-      "km": 0,
-      "body": "Motorcycle",
-      "trans": "Manual",
-      "price": 12000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Honda CRF 250R",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-30-at-18.57.52-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.57.51.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.57.52.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.57.53.jpeg"
-      ],
-      "id": "1714",
-      "year": 2010
     },
     {
       "km": 0,
