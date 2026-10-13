@@ -547,29 +547,6 @@
       "year": 2004
     },
     {
-      "km": 40700,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 53000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Electric",
-      "title": "Tesla Model 3",
-      "images": [
-        "/uploads/whatsapp-image-2026-08-01-at-21.22.01-3-.jpeg",
-        "/uploads/whatsapp-image-2026-08-01-at-21.22.01-1-.jpeg",
-        "/uploads/whatsapp-image-2026-08-01-at-21.22.01-2-.jpeg",
-        "/uploads/whatsapp-image-2026-08-01-at-21.22.01-7-.jpeg",
-        "/uploads/whatsapp-image-2026-08-01-at-21.22.01-8-.jpeg",
-        "/uploads/whatsapp-image-2026-08-01-at-21.22.01-6-.jpeg",
-        "/uploads/whatsapp-image-2026-08-01-at-21.22.01-5-.jpeg",
-        "/uploads/whatsapp-image-2026-08-01-at-21.22.01-4-.jpeg"
-      ],
-      "id": "2847",
-      "year": 2023
-    },
-    {
       "km": 83000,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -868,29 +845,6 @@
       "year": 2011
     },
     {
-      "km": 140000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 22500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Toyota 86",
-      "images": [
-        "/uploads/whatsapp-image-2026-10-07-at-21.55.51-3-.jpeg",
-        "/uploads/whatsapp-image-2026-10-07-at-21.55.50-2-.jpeg",
-        "/uploads/whatsapp-image-2026-10-07-at-21.55.51.jpeg",
-        "/uploads/whatsapp-image-2026-10-07-at-21.55.50-4-.jpeg",
-        "/uploads/whatsapp-image-2026-10-07-at-21.55.50.jpeg",
-        "/uploads/whatsapp-image-2026-10-07-at-21.55.51-1-.jpeg",
-        "/uploads/whatsapp-image-2026-10-07-at-21.55.50-1-.jpeg",
-        "/uploads/whatsapp-image-2026-10-07-at-21.55.51-2-.jpeg"
-      ],
-      "id": "2674",
-      "year": 2012
-    },
-    {
       "km": 127000,
       "body": "Sedan",
       "trans": "Automatic",
@@ -1166,29 +1120,6 @@
       "year": 2016
     },
     {
-      "km": 106000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 9500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "BMW",
-      "images": [
-        "/uploads/whatsapp-image-2026-09-09-at-20.33.03-2-.jpeg",
-        "/uploads/whatsapp-image-2026-09-09-at-20.33.03-4-.jpeg",
-        "/uploads/whatsapp-image-2026-09-09-at-20.33.03-8-.jpeg",
-        "/uploads/whatsapp-image-2026-09-09-at-20.33.03-1-.jpeg",
-        "/uploads/whatsapp-image-2026-09-09-at-20.33.03-6-.jpeg",
-        "/uploads/whatsapp-image-2026-09-09-at-20.33.03-7-.jpeg",
-        "/uploads/whatsapp-image-2026-09-09-at-20.33.03-5-.jpeg",
-        "/uploads/whatsapp-image-2026-09-09-at-20.33.03-3-.jpeg"
-      ],
-      "id": "7066",
-      "year": 2009
-    },
-    {
       "km": 12600,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -1371,28 +1302,6 @@
       "year": 2011
     },
     {
-      "km": 70000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 24500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Jeep Wrangler",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-01-at-16.46.06.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.46.05-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.46.05.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.46.06-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.46.06-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.46.06-5-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.46.06-2-.jpeg"
-      ],
-      "id": "HEM1",
-      "year": 2008
-    },
-    {
       "km": 4000,
       "body": "SUV",
       "trans": "Automatic",
@@ -1414,29 +1323,6 @@
       ],
       "id": "IOASA",
       "year": 2024
-    },
-    {
-      "km": 2109,
-      "body": "Truck",
-      "trans": "Automatic",
-      "price": 85000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Diesel",
-      "title": "Isuzu luxe",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.14.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.14-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.15-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.17.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.18.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.16.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.16-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.15.jpeg"
-      ],
-      "id": "1366",
-      "year": 2026
     },
     {
       "km": 72888,
