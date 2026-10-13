@@ -24,6 +24,75 @@
       "year": 2023
     },
     {
+      "km": 6500,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 67000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Electric",
+      "title": "Leap Motor C16",
+      "images": [
+        "/uploads/whatsapp-image-2026-10-12-at-21.54.23-2-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.54.24-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.54.24.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.54.22-2-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.54.23.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.54.23-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.54.23-3-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.54.22.jpeg"
+      ],
+      "id": "2452",
+      "year": 2025
+    },
+    {
+      "km": 36000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 62000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Electric",
+      "title": "Volkswagen ID6",
+      "images": [
+        "/uploads/whatsapp-image-2026-10-12-at-21.54.49-2-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.54.49-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.54.51-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.54.50-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.54.50.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.54.50-2-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.54.50-3-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.54.51.jpeg"
+      ],
+      "id": "0726",
+      "year": 2021
+    },
+    {
+      "km": 42000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 62500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Volkswagen ID4 Crozz Pure",
+      "images": [
+        "/uploads/whatsapp-image-2026-10-12-at-21.55.14.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.55.15.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.55.16-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.55.15-3-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.55.16.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.55.15-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.55.15-4-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.55.15-2-.jpeg"
+      ],
+      "id": "6229",
+      "year": 2025
+    },
+    {
       "km": 111998,
       "body": "SUV",
       "trans": "Automatic",
@@ -66,6 +135,29 @@
         "/uploads/whatsapp-image-2026-07-06-at-13.53.47-4-.jpeg"
       ],
       "id": "4052",
+      "year": 2024
+    },
+    {
+      "km": 21958,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 52000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Electric",
+      "title": "Kia EV5",
+      "images": [
+        "/uploads/whatsapp-image-2026-10-12-at-21.54.39-4-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.54.39-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.54.38.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.54.40.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.54.40-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.54.38-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.54.39.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.54.39-2-.jpeg"
+      ],
+      "id": "2611",
       "year": 2024
     },
     {
@@ -1369,6 +1461,29 @@
       "year": 2018
     },
     {
+      "km": 94000,
+      "body": "Truck",
+      "trans": "Automatic",
+      "price": 50000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Chevrolet Colorado LT",
+      "images": [
+        "/uploads/whatsapp-image-2026-10-12-at-21.55.05.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.55.05-3-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.55.04-2-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.55.04-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.55.04.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.55.04-3-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.55.05-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.55.05-2-.jpeg"
+      ],
+      "id": "2522",
+      "year": 2018
+    },
+    {
       "km": 200000,
       "body": "Truck",
       "trans": "Automatic",
@@ -1551,121 +1666,6 @@
       ],
       "id": "0002",
       "year": 2026
-    },
-    {
-      "km": 6500,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 67000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Electric",
-      "title": "Leap Motor C16",
-      "images": [
-        "/uploads/whatsapp-image-2026-10-12-at-21.54.23-2-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.54.24-1-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.54.24.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.54.22-2-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.54.23.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.54.23-1-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.54.23-3-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.54.22.jpeg"
-      ],
-      "id": "2452",
-      "year": 2025
-    },
-    {
-      "km": 21958,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 52000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Electric",
-      "title": "Kia EV5",
-      "images": [
-        "/uploads/whatsapp-image-2026-10-12-at-21.54.39-4-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.54.39-1-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.54.38.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.54.40.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.54.40-1-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.54.38-1-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.54.39.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.54.39-2-.jpeg"
-      ],
-      "id": "2611",
-      "year": 2024
-    },
-    {
-      "km": 36000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 62000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Electric",
-      "title": "Volkswagen ID6",
-      "images": [
-        "/uploads/whatsapp-image-2026-10-12-at-21.54.49-2-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.54.49-1-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.54.51-1-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.54.50-1-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.54.50.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.54.50-2-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.54.50-3-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.54.51.jpeg"
-      ],
-      "id": "0726",
-      "year": 2021
-    },
-    {
-      "km": 94000,
-      "body": "Truck",
-      "trans": "Automatic",
-      "price": 50000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Chevrolet Colorado LT",
-      "images": [
-        "/uploads/whatsapp-image-2026-10-12-at-21.55.05.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.55.05-3-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.55.04-2-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.55.04-1-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.55.04.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.55.04-3-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.55.05-1-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.55.05-2-.jpeg"
-      ],
-      "id": "2522",
-      "year": 2018
-    },
-    {
-      "km": 42000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 62500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Volkswagen ID4 Crozz Pure",
-      "images": [
-        "/uploads/whatsapp-image-2026-10-12-at-21.55.14.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.55.15.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.55.16-1-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.55.15-3-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.55.16.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.55.15-1-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.55.15-4-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.55.15-2-.jpeg"
-      ],
-      "id": "6229",
-      "year": 2025
     }
   ]
 }
