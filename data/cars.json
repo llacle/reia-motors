@@ -138,6 +138,29 @@
       "year": 2024
     },
     {
+      "km": 62541,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 50000,
+      "featured": true,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Changan cs55 plus",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-23-at-17.52.05-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.52.06.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.52.05-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.52.05.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.52.04.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.52.04-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.52.04-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.52.04-2-.jpeg"
+      ],
+      "id": "8490",
+      "year": 2023
+    },
+    {
       "km": 21958,
       "body": "SUV",
       "trans": "Automatic",
@@ -182,29 +205,6 @@
       ],
       "id": "2071",
       "year": 2024
-    },
-    {
-      "km": 62541,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 50000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Changan cs55 plus",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-23-at-17.52.05-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.52.06.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.52.05-2-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.52.05.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.52.04.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.52.04-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.52.04-3-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.52.04-2-.jpeg"
-      ],
-      "id": "8490",
-      "year": 2023
     },
     {
       "km": 0,
