@@ -54,7 +54,7 @@
       "featured": false,
       "currency": "AWG",
       "sold": false,
-      "fuel": "Gasoline",
+      "fuel": "Electric",
       "title": "Volkswagen ID.4 Crozz Pure",
       "images": [
         "/uploads/whatsapp-image-2026-10-12-at-21.55.14.jpeg",
@@ -595,7 +595,7 @@
       "km": 0,
       "body": "Sedan",
       "trans": "Automatic",
-      "price": 30000,
+      "price": 25000,
       "featured": false,
       "currency": "AWG",
       "sold": false,
