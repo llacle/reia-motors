@@ -1576,6 +1576,29 @@
       ],
       "id": "0002",
       "year": 2026
+    },
+    {
+      "km": 37000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 50000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Electric",
+      "title": "Volkswagen ID Cross Pure +",
+      "images": [
+        "/uploads/whatsapp-image-2026-10-24-at-18.35.52-6-.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.35.52.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.35.52-8-.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.35.52-3-.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.35.52-4-.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.35.52-2-.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.35.52-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.35.52-5-.jpeg"
+      ],
+      "id": "3659",
+      "year": 2022
     }
   ]
 }
