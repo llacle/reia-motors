@@ -1567,6 +1567,29 @@
       "year": 2004
     },
     {
+      "km": 5021,
+      "body": "Motorcycle",
+      "trans": "Manual",
+      "price": 30000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Can-am Spyder RT",
+      "images": [
+        "/uploads/whatsapp-image-2026-10-24-at-18.51.48-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.51.48-2-.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.51.48.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.51.48-4-.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.51.48-5-.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.51.48-6-.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.51.48-7-.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.51.48-3-.jpeg"
+      ],
+      "id": "2680",
+      "year": 2016
+    },
+    {
       "km": 1000,
       "body": "Motorcycle",
       "trans": "Automatic",
