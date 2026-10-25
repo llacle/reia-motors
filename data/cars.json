@@ -1371,6 +1371,52 @@
       "year": 1964
     },
     {
+      "km": 27000,
+      "body": "Truck",
+      "trans": "Automatic",
+      "price": 99000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Jeep Gladiator Sport",
+      "images": [
+        "/uploads/whatsapp-image-2026-10-24-at-18.50.22-2-.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.50.22-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.50.22.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.50.22-4-.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.50.22-3-.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.50.22-7-.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.50.22-8-.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.50.22-5-.jpeg"
+      ],
+      "id": "8182",
+      "year": 2022
+    },
+    {
+      "km": 94000,
+      "body": "Truck",
+      "trans": "Automatic",
+      "price": 50000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Chevrolet Colorado LT",
+      "images": [
+        "/uploads/whatsapp-image-2026-10-12-at-21.55.05.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.55.05-3-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.55.04-2-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.55.04-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.55.04.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.55.04-3-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.55.05-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-12-at-21.55.05-2-.jpeg"
+      ],
+      "id": "2522",
+      "year": 2018
+    },
+    {
       "km": 72888,
       "body": "Truck",
       "trans": "Automatic",
@@ -1412,29 +1458,6 @@
         "/uploads/whatsapp-image-2026-06-15-at-19.35.29-4-.jpeg"
       ],
       "id": "0243",
-      "year": 2018
-    },
-    {
-      "km": 94000,
-      "body": "Truck",
-      "trans": "Automatic",
-      "price": 50000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Chevrolet Colorado LT",
-      "images": [
-        "/uploads/whatsapp-image-2026-10-12-at-21.55.05.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.55.05-3-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.55.04-2-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.55.04-1-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.55.04.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.55.04-3-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.55.05-1-.jpeg",
-        "/uploads/whatsapp-image-2026-10-12-at-21.55.05-2-.jpeg"
-      ],
-      "id": "2522",
       "year": 2018
     },
     {
