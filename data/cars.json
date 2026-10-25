@@ -305,7 +305,7 @@
       "currency": "AWG",
       "sold": false,
       "fuel": "Electric",
-      "title": "Volkswagen ID Cross Pure +",
+      "title": "Volkswagen ID.4 Cross Pure +",
       "images": [
         "/uploads/whatsapp-image-2026-10-24-at-18.35.52-6-.jpeg",
         "/uploads/whatsapp-image-2026-10-24-at-18.35.52.jpeg",
@@ -1233,6 +1233,29 @@
       ],
       "id": "0128",
       "year": 2013
+    },
+    {
+      "km": 96000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 15000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Hybrid",
+      "title": "Honda Fit Hybrid RS",
+      "images": [
+        "/uploads/whatsapp-image-2026-10-24-at-18.50.46-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.50.46-2-.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.50.46.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.50.46-4-.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.50.46-5-.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.50.46-7-.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.50.46-8-.jpeg",
+        "/uploads/whatsapp-image-2026-10-24-at-18.50.46-3-.jpeg"
+      ],
+      "id": "ant1",
+      "year": 2012
     },
     {
       "km": 44000,
