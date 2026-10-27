@@ -1668,6 +1668,29 @@
       ],
       "id": "0002",
       "year": 2026
+    },
+    {
+      "km": 107000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 20000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Volkswagen CC",
+      "images": [
+        "/uploads/whatsapp-image-2026-10-26-at-20.08.51-2-.jpeg",
+        "/uploads/whatsapp-image-2026-10-26-at-20.08.51-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-26-at-20.08.51.jpeg",
+        "/uploads/whatsapp-image-2026-10-26-at-20.08.51-4-.jpeg",
+        "/uploads/whatsapp-image-2026-10-26-at-20.08.51-5-.jpeg",
+        "/uploads/whatsapp-image-2026-10-26-at-20.08.51-6-.jpeg",
+        "/uploads/whatsapp-image-2026-10-26-at-20.08.51-8-.jpeg",
+        "/uploads/whatsapp-image-2026-10-26-at-20.08.51-3-.jpeg"
+      ],
+      "id": "4203",
+      "year": 2014
     }
   ]
 }
