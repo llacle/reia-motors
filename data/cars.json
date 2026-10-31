@@ -1691,6 +1691,52 @@
       ],
       "id": "4203",
       "year": 2014
+    },
+    {
+      "km": 212000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 12500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Mercedez Benz",
+      "images": [
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.20-6-.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.20-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.20-5-.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.20-7-.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.20-2-.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.20.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.20-3-.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.20-4-.jpeg"
+      ],
+      "id": "1090",
+      "year": 2008
+    },
+    {
+      "km": 43000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 20000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Nissan Fairlady 350z HR",
+      "images": [
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.40.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.40-7-.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.40-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.40-8-.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.40-6-.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.40-4-.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.40-5-.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.40-2-.jpeg"
+      ],
+      "id": "2023",
+      "year": 2007
     }
   ]
 }
