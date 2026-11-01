@@ -914,29 +914,6 @@
       "year": 2011
     },
     {
-      "km": 127000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 19500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Kia Soluto",
-      "images": [
-        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-5-.jpeg",
-        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-7-.jpeg",
-        "/uploads/whatsapp-image-2026-09-22-at-22.25.34.jpeg",
-        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-2-.jpeg",
-        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-1-.jpeg",
-        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-6-.jpeg",
-        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-8-.jpeg",
-        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-4-.jpeg"
-      ],
-      "id": "4304",
-      "year": 2020
-    },
-    {
       "km": 68000,
       "body": "Sedan",
       "trans": "Automatic",
@@ -983,6 +960,29 @@
       "year": 2015
     },
     {
+      "km": 43000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 20000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Nissan Fairlady 350z HR",
+      "images": [
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.40.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.40-7-.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.40-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.40-8-.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.40-6-.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.40-4-.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.40-5-.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.40-2-.jpeg"
+      ],
+      "id": "2023",
+      "year": 2007
+    },
+    {
       "km": 90000,
       "body": "Sedan",
       "trans": "Automatic",
@@ -1006,7 +1006,7 @@
       "year": 2020
     },
     {
-      "km": 183000,
+      "km": 107000,
       "body": "Sedan",
       "trans": "Automatic",
       "price": 20000,
@@ -1014,19 +1014,19 @@
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
-      "title": "Toyota Yaris",
+      "title": "Volkswagen CC",
       "images": [
-        "/uploads/whatsapp-image-2026-06-04-at-16.52.55-5-.jpeg",
-        "/uploads/whatsapp-image-2026-06-04-at-16.52.54.jpeg",
-        "/uploads/whatsapp-image-2026-06-04-at-16.52.56.jpeg",
-        "/uploads/whatsapp-image-2026-06-04-at-16.52.55-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-04-at-16.52.55-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-04-at-16.52.56-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-04-at-16.52.54-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-04-at-16.52.55-3-.jpeg"
+        "/uploads/whatsapp-image-2026-10-26-at-20.08.51-2-.jpeg",
+        "/uploads/whatsapp-image-2026-10-26-at-20.08.51-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-26-at-20.08.51.jpeg",
+        "/uploads/whatsapp-image-2026-10-26-at-20.08.51-4-.jpeg",
+        "/uploads/whatsapp-image-2026-10-26-at-20.08.51-5-.jpeg",
+        "/uploads/whatsapp-image-2026-10-26-at-20.08.51-6-.jpeg",
+        "/uploads/whatsapp-image-2026-10-26-at-20.08.51-8-.jpeg",
+        "/uploads/whatsapp-image-2026-10-26-at-20.08.51-3-.jpeg"
       ],
-      "id": "rol1",
-      "year": 2018
+      "id": "4203",
+      "year": 2014
     },
     {
       "km": 93732,
@@ -1052,6 +1052,29 @@
       "year": 2020
     },
     {
+      "km": 127000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 19500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Kia Soluto",
+      "images": [
+        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-5-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-7-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.25.34.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-2-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-1-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-6-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-8-.jpeg",
+        "/uploads/whatsapp-image-2026-09-22-at-22.25.34-4-.jpeg"
+      ],
+      "id": "4304",
+      "year": 2020
+    },
+    {
       "km": 147000,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -1072,6 +1095,29 @@
       ],
       "id": "OWNER1",
       "year": 2015
+    },
+    {
+      "km": 183000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 17500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Toyota Yaris",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.55-5-.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.54.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.56.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.55-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.55-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.56-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.54-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.55-3-.jpeg"
+      ],
+      "id": "rol1",
+      "year": 2018
     },
     {
       "km": 88000,
@@ -1691,52 +1737,6 @@
       ],
       "id": "0002",
       "year": 2026
-    },
-    {
-      "km": 107000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 20000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Volkswagen CC",
-      "images": [
-        "/uploads/whatsapp-image-2026-10-26-at-20.08.51-2-.jpeg",
-        "/uploads/whatsapp-image-2026-10-26-at-20.08.51-1-.jpeg",
-        "/uploads/whatsapp-image-2026-10-26-at-20.08.51.jpeg",
-        "/uploads/whatsapp-image-2026-10-26-at-20.08.51-4-.jpeg",
-        "/uploads/whatsapp-image-2026-10-26-at-20.08.51-5-.jpeg",
-        "/uploads/whatsapp-image-2026-10-26-at-20.08.51-6-.jpeg",
-        "/uploads/whatsapp-image-2026-10-26-at-20.08.51-8-.jpeg",
-        "/uploads/whatsapp-image-2026-10-26-at-20.08.51-3-.jpeg"
-      ],
-      "id": "4203",
-      "year": 2014
-    },
-    {
-      "km": 43000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 20000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Nissan Fairlady 350z HR",
-      "images": [
-        "/uploads/whatsapp-image-2026-10-31-at-13.41.40.jpeg",
-        "/uploads/whatsapp-image-2026-10-31-at-13.41.40-7-.jpeg",
-        "/uploads/whatsapp-image-2026-10-31-at-13.41.40-1-.jpeg",
-        "/uploads/whatsapp-image-2026-10-31-at-13.41.40-8-.jpeg",
-        "/uploads/whatsapp-image-2026-10-31-at-13.41.40-6-.jpeg",
-        "/uploads/whatsapp-image-2026-10-31-at-13.41.40-4-.jpeg",
-        "/uploads/whatsapp-image-2026-10-31-at-13.41.40-5-.jpeg",
-        "/uploads/whatsapp-image-2026-10-31-at-13.41.40-2-.jpeg"
-      ],
-      "id": "2023",
-      "year": 2007
     }
   ]
 }
