@@ -435,49 +435,6 @@
       "year": 2015
     },
     {
-      "km": 129400,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 25000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "chevrolet trax",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-06-at-23.23.16.jpeg",
-        "/uploads/whatsapp-image-2026-05-06-at-23.23.17.jpeg",
-        "/uploads/whatsapp-image-2026-05-06-at-23.23.17-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-06-at-23.23.17-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-06-at-23.23.17-3-.jpeg"
-      ],
-      "id": "1527",
-      "year": 2020
-    },
-    {
-      "km": 79000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 22000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Chevrolet Trax Premier",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-14-at-19.39.00-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-14-at-19.39.01.jpeg",
-        "/uploads/whatsapp-image-2026-05-14-at-19.39.00.jpeg",
-        "/uploads/whatsapp-image-2026-05-14-at-19.39.01-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-14-at-19.39.02-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-14-at-19.39.02-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-14-at-19.39.01-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-14-at-19.39.02.jpeg"
-      ],
-      "id": "3727",
-      "year": 2017
-    },
-    {
       "km": 90000,
       "body": "SUV",
       "trans": "Automatic",
@@ -1325,27 +1282,6 @@
       ],
       "id": "ant1",
       "year": 2012
-    },
-    {
-      "km": 44000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 14500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Nissan Note",
-      "images": [
-        "/uploads/whatsapp-image-2026-10-07-at-21.58.11-4-.jpeg",
-        "/uploads/whatsapp-image-2026-10-07-at-21.58.11-3-.jpeg",
-        "/uploads/whatsapp-image-2026-10-07-at-21.58.11-5-.jpeg",
-        "/uploads/whatsapp-image-2026-10-07-at-21.58.11-2-.jpeg",
-        "/uploads/whatsapp-image-2026-10-07-at-21.58.11-1-.jpeg",
-        "/uploads/whatsapp-image-2026-10-07-at-21.58.11.jpeg"
-      ],
-      "id": "0434",
-      "year": 2018
     },
     {
       "km": 107000,
