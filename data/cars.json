@@ -1673,6 +1673,52 @@
       ],
       "id": "0002",
       "year": 2026
+    },
+    {
+      "km": 8000,
+      "body": "Truck",
+      "trans": "Automatic",
+      "price": 125000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Dodge Ram",
+      "images": [
+        "/uploads/whatsapp-image-2026-11-03-at-19.05.19-5-.jpeg",
+        "/uploads/whatsapp-image-2026-11-03-at-19.05.19-2-.jpeg",
+        "/uploads/whatsapp-image-2026-11-03-at-19.05.19-8-.jpeg",
+        "/uploads/whatsapp-image-2026-11-03-at-19.05.19-1-.jpeg",
+        "/uploads/whatsapp-image-2026-11-03-at-19.05.19-6-.jpeg",
+        "/uploads/whatsapp-image-2026-11-03-at-19.05.19.jpeg",
+        "/uploads/whatsapp-image-2026-11-03-at-19.05.19-4-.jpeg",
+        "/uploads/whatsapp-image-2026-11-03-at-19.05.19-7-.jpeg"
+      ],
+      "id": "7760",
+      "year": 2026
+    },
+    {
+      "km": 138000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 22500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Nissan Altima",
+      "images": [
+        "/uploads/whatsapp-image-2026-11-03-at-18.57.55-7-.jpeg",
+        "/uploads/whatsapp-image-2026-11-03-at-18.57.55-8-.jpeg",
+        "/uploads/whatsapp-image-2026-11-03-at-18.57.55.jpeg",
+        "/uploads/whatsapp-image-2026-11-03-at-18.57.55-4-.jpeg",
+        "/uploads/whatsapp-image-2026-11-03-at-18.57.55-1-.jpeg",
+        "/uploads/whatsapp-image-2026-11-03-at-18.57.55-3-.jpeg",
+        "/uploads/whatsapp-image-2026-11-03-at-18.57.55-5-.jpeg",
+        "/uploads/whatsapp-image-2026-11-03-at-18.57.55-6-.jpeg"
+      ],
+      "id": "8616",
+      "year": 2016
     }
   ]
 }
