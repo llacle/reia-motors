@@ -139,28 +139,6 @@
       "year": 2024
     },
     {
-      "km": 111998,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 60000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "Ford Expedition",
-      "images": [
-        "/uploads/whatsapp-image-2026-09-01-at-10.09.16-5-.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.09.16-4-.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.09.16-1-.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.09.16.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.09.16-8-.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.09.16-6-.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.09.16-3-.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.09.16-7-.jpeg"
-      ],
-      "id": "5658",
-      "year": 2019
-    },
-    {
       "km": 1359,
       "body": "SUV",
       "trans": "Automatic",
@@ -182,6 +160,28 @@
       ],
       "id": "4052",
       "year": 2024
+    },
+    {
+      "km": 111998,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 50000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "Ford Expedition",
+      "images": [
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.16-5-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.16-4-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.16-1-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.16.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.16-8-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.16-6-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.16-3-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.16-7-.jpeg"
+      ],
+      "id": "5658",
+      "year": 2019
     },
     {
       "km": 21958,
