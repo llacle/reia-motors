@@ -253,6 +253,29 @@
       "year": 2025
     },
     {
+      "km": 60000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 50000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Nissan Rogue",
+      "images": [
+        "/uploads/whatsapp-image-2026-11-08-at-00.43.38-2-.jpeg",
+        "/uploads/whatsapp-image-2026-11-08-at-00.43.38-1-.jpeg",
+        "/uploads/whatsapp-image-2026-11-08-at-00.43.38.jpeg",
+        "/uploads/whatsapp-image-2026-11-08-at-00.43.38-5-.jpeg",
+        "/uploads/whatsapp-image-2026-11-08-at-00.43.38-4-.jpeg",
+        "/uploads/whatsapp-image-2026-11-08-at-00.43.38-7-.jpeg",
+        "/uploads/whatsapp-image-2026-11-08-at-00.43.38-8-.jpeg",
+        "/uploads/whatsapp-image-2026-11-08-at-00.43.38-3-.jpeg"
+      ],
+      "id": "W1",
+      "year": 2023
+    },
+    {
       "km": 37000,
       "body": "SUV",
       "trans": "Automatic",
@@ -1541,29 +1564,6 @@
       ],
       "id": "0002",
       "year": 2026
-    },
-    {
-      "km": 60000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 50000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Nissan Rogue",
-      "images": [
-        "/uploads/whatsapp-image-2026-11-08-at-00.43.38-2-.jpeg",
-        "/uploads/whatsapp-image-2026-11-08-at-00.43.38-1-.jpeg",
-        "/uploads/whatsapp-image-2026-11-08-at-00.43.38.jpeg",
-        "/uploads/whatsapp-image-2026-11-08-at-00.43.38-5-.jpeg",
-        "/uploads/whatsapp-image-2026-11-08-at-00.43.38-4-.jpeg",
-        "/uploads/whatsapp-image-2026-11-08-at-00.43.38-7-.jpeg",
-        "/uploads/whatsapp-image-2026-11-08-at-00.43.38-8-.jpeg",
-        "/uploads/whatsapp-image-2026-11-08-at-00.43.38-3-.jpeg"
-      ],
-      "id": "W1",
-      "year": 2023
     }
   ]
 }
