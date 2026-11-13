@@ -1564,6 +1564,75 @@
       ],
       "id": "0002",
       "year": 2026
+    },
+    {
+      "km": 30000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 52500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Hyundai Tucson",
+      "images": [
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.16-5-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.16-6-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.16-8-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.16-7-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.16-4-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.16-3-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.16-1-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.16.jpeg"
+      ],
+      "id": "6931",
+      "year": 2022
+    },
+    {
+      "km": 116000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 13000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Honda Fit",
+      "images": [
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.32-2-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.32-1-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.32.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.32-3-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.32-4-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.32-7-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.32-8-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.32-5-.jpeg"
+      ],
+      "id": "0776",
+      "year": 2011
+    },
+    {
+      "km": 62000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 85000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Jeep Wrangler Rubicon 2.0L",
+      "images": [
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.49.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.49-1-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.49-2-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.49-3-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.49-4-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.49-6-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.49-8-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.49-5-.jpeg"
+      ],
+      "id": "20l",
+      "year": 2022
     }
   ]
 }
