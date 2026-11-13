@@ -1,6 +1,29 @@
 {
   "cars": [
     {
+      "km": 62000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 85000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Jeep Wrangler Rubicon 2.0L",
+      "images": [
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.49.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.49-1-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.49-2-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.49-3-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.49-4-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.49-6-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.49-8-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.49-5-.jpeg"
+      ],
+      "id": "20l",
+      "year": 2022
+    },
+    {
       "km": 25000,
       "body": "SUV",
       "trans": "Automatic",
@@ -160,6 +183,29 @@
       ],
       "id": "4052",
       "year": 2024
+    },
+    {
+      "km": 30000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 52500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Hyundai Tucson",
+      "images": [
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.16-5-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.16-6-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.16-8-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.16-7-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.16-4-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.16-3-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.16-1-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.16.jpeg"
+      ],
+      "id": "6931",
+      "year": 2022
     },
     {
       "km": 111998,
@@ -758,33 +804,33 @@
       "year": 2011
     },
     {
-      "km": 133000,
+      "km": 43000,
       "body": "Sedan",
       "trans": "Automatic",
-      "price": 22500,
+      "price": 20000,
       "featured": false,
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
-      "title": "Dodge Charger",
+      "title": "Nissan Fairlady 350z HR",
       "images": [
-        "/uploads/whatsapp-image-2026-09-09-at-20.32.50-2-.jpeg",
-        "/uploads/whatsapp-image-2026-09-09-at-20.32.50-1-.jpeg",
-        "/uploads/whatsapp-image-2026-09-09-at-20.32.50-6-.jpeg",
-        "/uploads/whatsapp-image-2026-09-09-at-20.32.50-3-.jpeg",
-        "/uploads/whatsapp-image-2026-09-09-at-20.32.50-7-.jpeg",
-        "/uploads/whatsapp-image-2026-09-09-at-20.32.50-8-.jpeg",
-        "/uploads/whatsapp-image-2026-09-09-at-20.32.50-4-.jpeg",
-        "/uploads/whatsapp-image-2026-09-09-at-20.32.50.jpeg"
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.20-6-.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.20-1-.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.20-5-.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.20-7-.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.20-2-.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.20.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.20-3-.jpeg",
+        "/uploads/whatsapp-image-2026-10-31-at-13.41.20-4-.jpeg"
       ],
-      "id": "0396",
-      "year": 2012
+      "id": "2023",
+      "year": 2007
     },
     {
       "km": 138000,
       "body": "Sedan",
       "trans": "Automatic",
-      "price": 22500,
+      "price": 20000,
       "featured": false,
       "currency": "AWG",
       "sold": false,
@@ -805,7 +851,7 @@
       "km": 68000,
       "body": "Sedan",
       "trans": "Automatic",
-      "price": 22500,
+      "price": 20000,
       "featured": false,
       "currency": "AWG",
       "sold": false,
@@ -846,29 +892,6 @@
       ],
       "id": "1437",
       "year": 2015
-    },
-    {
-      "km": 43000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 20000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Nissan Fairlady 350z HR",
-      "images": [
-        "/uploads/whatsapp-image-2026-10-31-at-13.41.20-6-.jpeg",
-        "/uploads/whatsapp-image-2026-10-31-at-13.41.20-1-.jpeg",
-        "/uploads/whatsapp-image-2026-10-31-at-13.41.20-5-.jpeg",
-        "/uploads/whatsapp-image-2026-10-31-at-13.41.20-7-.jpeg",
-        "/uploads/whatsapp-image-2026-10-31-at-13.41.20-2-.jpeg",
-        "/uploads/whatsapp-image-2026-10-31-at-13.41.20.jpeg",
-        "/uploads/whatsapp-image-2026-10-31-at-13.41.20-3-.jpeg",
-        "/uploads/whatsapp-image-2026-10-31-at-13.41.20-4-.jpeg"
-      ],
-      "id": "2023",
-      "year": 2007
     },
     {
       "km": 90000,
@@ -1238,27 +1261,27 @@
       "year": 2014
     },
     {
-      "km": 84000,
+      "km": 116000,
       "body": "Hatchback",
       "trans": "Automatic",
-      "price": 13500,
+      "price": 13000,
       "featured": false,
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
       "title": "Honda Fit",
       "images": [
-        "/uploads/whatsapp-image-2026-08-17-at-22.24.10-9-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.24.10-4-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.24.10-1-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.24.10-2-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.24.10-5-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.24.10-7-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.24.10-8-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.24.10.jpeg"
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.32-2-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.32-1-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.32.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.32-3-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.32-4-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.32-7-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.32-8-.jpeg",
+        "/uploads/whatsapp-image-2026-11-12-at-23.48.32-5-.jpeg"
       ],
-      "id": "o6",
-      "year": 2014
+      "id": "0776",
+      "year": 2011
     },
     {
       "km": 47000,
@@ -1564,75 +1587,6 @@
       ],
       "id": "0002",
       "year": 2026
-    },
-    {
-      "km": 30000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 52500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Hyundai Tucson",
-      "images": [
-        "/uploads/whatsapp-image-2026-11-12-at-23.48.16-5-.jpeg",
-        "/uploads/whatsapp-image-2026-11-12-at-23.48.16-6-.jpeg",
-        "/uploads/whatsapp-image-2026-11-12-at-23.48.16-8-.jpeg",
-        "/uploads/whatsapp-image-2026-11-12-at-23.48.16-7-.jpeg",
-        "/uploads/whatsapp-image-2026-11-12-at-23.48.16-4-.jpeg",
-        "/uploads/whatsapp-image-2026-11-12-at-23.48.16-3-.jpeg",
-        "/uploads/whatsapp-image-2026-11-12-at-23.48.16-1-.jpeg",
-        "/uploads/whatsapp-image-2026-11-12-at-23.48.16.jpeg"
-      ],
-      "id": "6931",
-      "year": 2022
-    },
-    {
-      "km": 116000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 13000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Honda Fit",
-      "images": [
-        "/uploads/whatsapp-image-2026-11-12-at-23.48.32-2-.jpeg",
-        "/uploads/whatsapp-image-2026-11-12-at-23.48.32-1-.jpeg",
-        "/uploads/whatsapp-image-2026-11-12-at-23.48.32.jpeg",
-        "/uploads/whatsapp-image-2026-11-12-at-23.48.32-3-.jpeg",
-        "/uploads/whatsapp-image-2026-11-12-at-23.48.32-4-.jpeg",
-        "/uploads/whatsapp-image-2026-11-12-at-23.48.32-7-.jpeg",
-        "/uploads/whatsapp-image-2026-11-12-at-23.48.32-8-.jpeg",
-        "/uploads/whatsapp-image-2026-11-12-at-23.48.32-5-.jpeg"
-      ],
-      "id": "0776",
-      "year": 2011
-    },
-    {
-      "km": 62000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 85000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Jeep Wrangler Rubicon 2.0L",
-      "images": [
-        "/uploads/whatsapp-image-2026-11-12-at-23.48.49.jpeg",
-        "/uploads/whatsapp-image-2026-11-12-at-23.48.49-1-.jpeg",
-        "/uploads/whatsapp-image-2026-11-12-at-23.48.49-2-.jpeg",
-        "/uploads/whatsapp-image-2026-11-12-at-23.48.49-3-.jpeg",
-        "/uploads/whatsapp-image-2026-11-12-at-23.48.49-4-.jpeg",
-        "/uploads/whatsapp-image-2026-11-12-at-23.48.49-6-.jpeg",
-        "/uploads/whatsapp-image-2026-11-12-at-23.48.49-8-.jpeg",
-        "/uploads/whatsapp-image-2026-11-12-at-23.48.49-5-.jpeg"
-      ],
-      "id": "20l",
-      "year": 2022
     }
   ]
 }
