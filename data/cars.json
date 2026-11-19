@@ -1541,6 +1541,52 @@
       ],
       "id": "0002",
       "year": 2026
+    },
+    {
+      "km": 175000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 13500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Hyundai Sonata",
+      "images": [
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.40.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.40-1-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.40-5-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.40-8-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.40-7-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.40-2-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.40-3-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.40-6-.jpeg"
+      ],
+      "id": "3282",
+      "year": 2012
+    },
+    {
+      "km": 93000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 12500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Toyota Ractis Van",
+      "images": [
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.24-7-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.24-4-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.24-8-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.24-1-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.24-6-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.24-6-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.24-2-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.24-3-.jpeg"
+      ],
+      "id": "0041",
+      "year": 2010
     }
   ]
 }
