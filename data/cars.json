@@ -1587,6 +1587,28 @@
       ],
       "id": "0041",
       "year": 2010
+    },
+    {
+      "km": 145000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 26000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Jeep Liberty Sport",
+      "images": [
+        "/uploads/whatsapp-image-2026-11-19-at-15.44.30.jpeg",
+        "/uploads/whatsapp-image-2026-11-19-at-15.44.30-1-.jpeg",
+        "/uploads/whatsapp-image-2026-11-19-at-15.44.30-2-.jpeg",
+        "/uploads/whatsapp-image-2026-11-19-at-15.44.30-4-.jpeg",
+        "/uploads/whatsapp-image-2026-11-19-at-15.44.30-3-.jpeg",
+        "/uploads/whatsapp-image-2026-11-19-at-15.44.30-6-.jpeg",
+        "/uploads/whatsapp-image-2026-11-19-at-15.44.30-8-.jpeg"
+      ],
+      "id": "ch1",
+      "year": 2009
     }
   ]
 }
