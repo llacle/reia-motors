@@ -1609,6 +1609,27 @@
       ],
       "id": "ch1",
       "year": 2009
+    },
+    {
+      "km": 0,
+      "body": "Motorcycle",
+      "trans": "Automatic",
+      "price": 30000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Harley Davidon",
+      "images": [
+        "/uploads/whatsapp-image-2026-11-19-at-16.06.39-1-.jpeg",
+        "/uploads/whatsapp-image-2026-11-19-at-16.06.39.jpeg",
+        "/uploads/whatsapp-image-2026-11-19-at-16.06.39-5-.jpeg",
+        "/uploads/whatsapp-image-2026-11-19-at-16.06.39-3-.jpeg",
+        "/uploads/whatsapp-image-2026-11-19-at-16.06.39-4-.jpeg",
+        "/uploads/whatsapp-image-2026-11-19-at-16.06.39-2-.jpeg"
+      ],
+      "id": "4160",
+      "year": 1990
     }
   ]
 }
