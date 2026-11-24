@@ -460,6 +460,28 @@
       "year": 2015
     },
     {
+      "km": 145000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 26000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Jeep Liberty Sport",
+      "images": [
+        "/uploads/whatsapp-image-2026-11-19-at-15.44.30.jpeg",
+        "/uploads/whatsapp-image-2026-11-19-at-15.44.30-1-.jpeg",
+        "/uploads/whatsapp-image-2026-11-19-at-15.44.30-2-.jpeg",
+        "/uploads/whatsapp-image-2026-11-19-at-15.44.30-4-.jpeg",
+        "/uploads/whatsapp-image-2026-11-19-at-15.44.30-3-.jpeg",
+        "/uploads/whatsapp-image-2026-11-19-at-15.44.30-6-.jpeg",
+        "/uploads/whatsapp-image-2026-11-19-at-15.44.30-8-.jpeg"
+      ],
+      "id": "ch1",
+      "year": 2009
+    },
+    {
       "km": 90000,
       "body": "SUV",
       "trans": "Automatic",
@@ -552,6 +574,29 @@
       "year": 2004
     },
     {
+      "km": 106000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 60000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Dodge Challenger",
+      "images": [
+        "/uploads/whatsapp-image-2026-11-23-at-19.39.18.jpeg",
+        "/uploads/whatsapp-image-2026-11-23-at-19.39.18-1-.jpeg",
+        "/uploads/whatsapp-image-2026-11-23-at-19.39.18-2-.jpeg",
+        "/uploads/whatsapp-image-2026-11-23-at-19.39.18-3-.jpeg",
+        "/uploads/whatsapp-image-2026-11-23-at-19.39.18-4-.jpeg",
+        "/uploads/whatsapp-image-2026-11-23-at-19.39.18-7-.jpeg",
+        "/uploads/whatsapp-image-2026-11-23-at-19.39.18-8-.jpeg",
+        "/uploads/whatsapp-image-2026-11-23-at-19.39.18-5-.jpeg"
+      ],
+      "id": "0807",
+      "year": 2020
+    },
+    {
       "km": 83000,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -572,6 +617,29 @@
       ],
       "id": "2624",
       "year": 2009
+    },
+    {
+      "km": 106000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 30000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Chevrolet Camaro",
+      "images": [
+        "/uploads/whatsapp-image-2026-11-23-at-19.40.06-2-.jpeg",
+        "/uploads/whatsapp-image-2026-11-23-at-19.40.06-1-.jpeg",
+        "/uploads/whatsapp-image-2026-11-23-at-19.40.06.jpeg",
+        "/uploads/whatsapp-image-2026-11-23-at-19.40.06-5-.jpeg",
+        "/uploads/whatsapp-image-2026-11-23-at-19.40.06-4-.jpeg",
+        "/uploads/whatsapp-image-2026-11-23-at-19.40.06-7-.jpeg",
+        "/uploads/whatsapp-image-2026-11-23-at-19.40.06-8-.jpeg",
+        "/uploads/whatsapp-image-2026-11-23-at-19.40.06-3-.jpeg"
+      ],
+      "id": "0062",
+      "year": 2010
     },
     {
       "km": 171000,
@@ -1031,6 +1099,29 @@
       "year": 2016
     },
     {
+      "km": 175000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 12500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Hyundai Sonata",
+      "images": [
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.40.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.40-1-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.40-5-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.40-8-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.40-7-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.40-2-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.40-3-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.40-6-.jpeg"
+      ],
+      "id": "3282",
+      "year": 2012
+    },
+    {
       "km": 212000,
       "body": "Sedan",
       "trans": "Automatic",
@@ -1261,6 +1352,29 @@
       "year": 2011
     },
     {
+      "km": 93000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 12500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Toyota Ractis Van",
+      "images": [
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.24-7-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.24-4-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.24-8-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.24-1-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.24-6-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.24-6-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.24-2-.jpeg",
+        "/uploads/whatsapp-image-2026-11-18-at-19.37.24-3-.jpeg"
+      ],
+      "id": "0041",
+      "year": 2010
+    },
+    {
       "km": 0,
       "body": "Sedan",
       "trans": "Automatic",
@@ -1440,6 +1554,27 @@
       "year": 2004
     },
     {
+      "km": 0,
+      "body": "Motorcycle",
+      "trans": "Automatic",
+      "price": 30000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Harley Davidon Vicla",
+      "images": [
+        "/uploads/whatsapp-image-2026-11-19-at-16.06.39-1-.jpeg",
+        "/uploads/whatsapp-image-2026-11-19-at-16.06.39.jpeg",
+        "/uploads/whatsapp-image-2026-11-19-at-16.06.39-5-.jpeg",
+        "/uploads/whatsapp-image-2026-11-19-at-16.06.39-3-.jpeg",
+        "/uploads/whatsapp-image-2026-11-19-at-16.06.39-4-.jpeg",
+        "/uploads/whatsapp-image-2026-11-19-at-16.06.39-2-.jpeg"
+      ],
+      "id": "4160",
+      "year": 1990
+    },
+    {
       "km": 5021,
       "body": "Motorcycle",
       "trans": "Manual",
@@ -1541,141 +1676,6 @@
       ],
       "id": "0002",
       "year": 2026
-    },
-    {
-      "km": 175000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 12500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Hyundai Sonata",
-      "images": [
-        "/uploads/whatsapp-image-2026-11-18-at-19.37.40.jpeg",
-        "/uploads/whatsapp-image-2026-11-18-at-19.37.40-1-.jpeg",
-        "/uploads/whatsapp-image-2026-11-18-at-19.37.40-5-.jpeg",
-        "/uploads/whatsapp-image-2026-11-18-at-19.37.40-8-.jpeg",
-        "/uploads/whatsapp-image-2026-11-18-at-19.37.40-7-.jpeg",
-        "/uploads/whatsapp-image-2026-11-18-at-19.37.40-2-.jpeg",
-        "/uploads/whatsapp-image-2026-11-18-at-19.37.40-3-.jpeg",
-        "/uploads/whatsapp-image-2026-11-18-at-19.37.40-6-.jpeg"
-      ],
-      "id": "3282",
-      "year": 2012
-    },
-    {
-      "km": 93000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 12500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Toyota Ractis Van",
-      "images": [
-        "/uploads/whatsapp-image-2026-11-18-at-19.37.24-7-.jpeg",
-        "/uploads/whatsapp-image-2026-11-18-at-19.37.24-4-.jpeg",
-        "/uploads/whatsapp-image-2026-11-18-at-19.37.24-8-.jpeg",
-        "/uploads/whatsapp-image-2026-11-18-at-19.37.24-1-.jpeg",
-        "/uploads/whatsapp-image-2026-11-18-at-19.37.24-6-.jpeg",
-        "/uploads/whatsapp-image-2026-11-18-at-19.37.24-6-.jpeg",
-        "/uploads/whatsapp-image-2026-11-18-at-19.37.24-2-.jpeg",
-        "/uploads/whatsapp-image-2026-11-18-at-19.37.24-3-.jpeg"
-      ],
-      "id": "0041",
-      "year": 2010
-    },
-    {
-      "km": 145000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 26000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Jeep Liberty Sport",
-      "images": [
-        "/uploads/whatsapp-image-2026-11-19-at-15.44.30.jpeg",
-        "/uploads/whatsapp-image-2026-11-19-at-15.44.30-1-.jpeg",
-        "/uploads/whatsapp-image-2026-11-19-at-15.44.30-2-.jpeg",
-        "/uploads/whatsapp-image-2026-11-19-at-15.44.30-4-.jpeg",
-        "/uploads/whatsapp-image-2026-11-19-at-15.44.30-3-.jpeg",
-        "/uploads/whatsapp-image-2026-11-19-at-15.44.30-6-.jpeg",
-        "/uploads/whatsapp-image-2026-11-19-at-15.44.30-8-.jpeg"
-      ],
-      "id": "ch1",
-      "year": 2009
-    },
-    {
-      "km": 0,
-      "body": "Motorcycle",
-      "trans": "Automatic",
-      "price": 30000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Harley Davidon",
-      "images": [
-        "/uploads/whatsapp-image-2026-11-19-at-16.06.39-1-.jpeg",
-        "/uploads/whatsapp-image-2026-11-19-at-16.06.39.jpeg",
-        "/uploads/whatsapp-image-2026-11-19-at-16.06.39-5-.jpeg",
-        "/uploads/whatsapp-image-2026-11-19-at-16.06.39-3-.jpeg",
-        "/uploads/whatsapp-image-2026-11-19-at-16.06.39-4-.jpeg",
-        "/uploads/whatsapp-image-2026-11-19-at-16.06.39-2-.jpeg"
-      ],
-      "id": "4160",
-      "year": 1990
-    },
-    {
-      "km": 106000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 60000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Dodge Challenger",
-      "images": [
-        "/uploads/whatsapp-image-2026-11-23-at-19.39.18.jpeg",
-        "/uploads/whatsapp-image-2026-11-23-at-19.39.18-1-.jpeg",
-        "/uploads/whatsapp-image-2026-11-23-at-19.39.18-2-.jpeg",
-        "/uploads/whatsapp-image-2026-11-23-at-19.39.18-3-.jpeg",
-        "/uploads/whatsapp-image-2026-11-23-at-19.39.18-4-.jpeg",
-        "/uploads/whatsapp-image-2026-11-23-at-19.39.18-7-.jpeg",
-        "/uploads/whatsapp-image-2026-11-23-at-19.39.18-8-.jpeg",
-        "/uploads/whatsapp-image-2026-11-23-at-19.39.18-5-.jpeg"
-      ],
-      "id": "0807",
-      "year": 2020
-    },
-    {
-      "km": 106000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 30000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Chevrolet Camaro",
-      "images": [
-        "/uploads/whatsapp-image-2026-11-23-at-19.40.06-2-.jpeg",
-        "/uploads/whatsapp-image-2026-11-23-at-19.40.06-1-.jpeg",
-        "/uploads/whatsapp-image-2026-11-23-at-19.40.06.jpeg",
-        "/uploads/whatsapp-image-2026-11-23-at-19.40.06-5-.jpeg",
-        "/uploads/whatsapp-image-2026-11-23-at-19.40.06-4-.jpeg",
-        "/uploads/whatsapp-image-2026-11-23-at-19.40.06-7-.jpeg",
-        "/uploads/whatsapp-image-2026-11-23-at-19.40.06-8-.jpeg",
-        "/uploads/whatsapp-image-2026-11-23-at-19.40.06-3-.jpeg"
-      ],
-      "id": "0062",
-      "year": 2010
     }
   ]
 }
